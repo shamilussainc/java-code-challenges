@@ -28,6 +28,7 @@ public class funGambling {
                 break;
             }
         }
+        scanner.close();
         printWalkAwayMessage();
     }
 
